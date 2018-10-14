@@ -1,0 +1,59 @@
+papers:
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2018
+    title: " Data-to-Text Generation with Content Selection and Planning"
+    authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
+    booktitle: "arXiv preprint arXiv:1809.00582"
+    doc-url: https://arxiv.org/abs/1809.00582
+    venue: working
+  - layout: paper
+    selected: yes
+    year: 2017
+    paper-type: inproceedings
+    title: "Transition-Based Deep Input Linearization"
+    authors: "Ratish Puduppully, Yue Zhang and Manish Shrivastava"
+    booktitle: "Proceedings of EACL"
+    doc-url: http://aclweb.org/anthology/E/E17/E17-1061.pdf
+    venue: conference
+  - layout: paper
+    year: 2016
+    selected: yes
+    paper-type: inproceedings
+    title: "Transition-Based Syntactic Linearization with Lookahead Features"
+    authors: "Ratish Puduppully, Yue Zhang and Manish Shrivastava"
+    booktitle: Proceedings of NAACL
+    booktitle-url: http://naacl.org/naacl-hlt-2016/
+    doc-url: https://www.aclweb.org/anthology/N/N16/N16-1058.pdf
+    venue: conference
+  - layout: paper
+    year: 2015
+    selected: yes
+    paper-type: inproceedings
+    title: "Brahmi-Net - An online system for transliteration and script conversion for Indian languages"
+    authors: "Anoop Kunchukuttan*, Ratish Puduppully* and Pushpak Bhattacharyya"
+    booktitle: Proceedings of NAACL-HLT Demonstrations
+    booktitle-url: http://naacl.org/naacl-hlt-2015/
+    doc-url: https://www.aclweb.org/anthology/N15-3017
+    venue: workshop
+  - layout: paper
+    year: 2014
+    selected: yes
+    paper-type: inproceedings
+    title: "Merging Verb Senses of Hindi WordNet using Word Embeddings"
+    authors: "Sudha Bhingardive, Ratish Puduppully, Dhirendra Singh and Pushpak Bhattacharyya"
+    booktitle: Proceedings of International Conference on Natural Language Processing (ICON)
+    booktitle-url: http://ltrc.iiit.ac.in/icon/2014/
+    doc-url: https://www.cse.iitb.ac.in/~pb/papers/icon14-merging-verb-senses.pdf
+    venue: conference
+  - layout: paper
+    year: 2014
+    selected: yes
+    paper-type: inproceedings
+    title: "The IIT Bombay SMT System for ICON 2014 Tools Contest"
+    authors: "Anoop Kunchukuttan, Ratish Puduppully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya"
+    booktitle: Proceedings of International Conference on Natural Language Processing (ICON) Tools Contest
+    booktitle-url: http://ltrc.iiit.ac.in/icon/2014/
+    doc-url: https://www.cse.iitb.ac.in/~anoopk/publications/icon_2014_iitbsys.pdf
+    venue: workshop

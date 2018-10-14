@@ -1,0 +1,22 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# You can change `author1` to your shortname.
+author1:
+  name:              Ratish Puduppully
+  email:             r.puduppully@sms.ed.ac.uk
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    PhD student at the University of Edinburgh
+
+  # This photo will be used in the about section.
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    email:             r.puduppully@sms.ed.ac.uk
+    github:            ratishsp
+    twitter:           ratishsp
+    # linkedin:        ratishsp
+

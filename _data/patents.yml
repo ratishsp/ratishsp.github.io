@@ -1,0 +1,10 @@
+papers:
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2016
+    title: " Method and system of sharing content"
+    authors: "Ben Willis, Sunil Natraj, Abhijeet Shinde, Tarun Agarwal, Ratish Puduppully, Santhi Swaroop Pulagala, Shu-Hua Chang"
+    booktitle: "US Patent 9,256,695"
+    doc-url: https://www.google.com/patents/US9256695
+    venue: patent grant

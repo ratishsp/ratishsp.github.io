@@ -1,0 +1,73 @@
+before-pubs:
+  -
+    heading: Education
+    items:
+      -
+        title: Ph.D
+        year: September 2017 - In progress
+        detail: University of Edinburgh 
+      -
+        title: M.S by Research in Computer Science
+        year: 2017
+        detail: IIIT Hyderabad
+      -
+        title: B.E
+        year: 2005
+        detail: K.J. Somaiya College of Engineering, Mumbai University
+after-pubs:
+  -
+    heading: Awards 
+    items:
+      -
+        title: Global Research Scholarship
+        year: 2017
+        detail: For PhD studies at University of Edinburgh
+      -
+        title: Microsoft Travel Grant
+        year: 2016
+        detail: For presenting work at NAACL 2016
+  -
+    heading: Teaching
+    subsections:
+      -
+        heading: University courses
+        items:
+          -
+            title: Tutor for Accelerated Natural Language Processing
+            year: 2018
+            detail: 
+
+ 
+  -
+    heading: Advising
+    subsections:
+      -
+        heading: Interns
+        items:
+          -
+            title: Bilguunzaya Battogtokh
+            detail: BSc student at Stanford University, mentored during summer 2018
+
+  -
+    heading: Research Positions
+    items:
+      -
+        title: Research Assistant
+        year: Mar 2017&ndash;Aug 2017
+        detail: SUTD NLP Lab, Singapore
+      -
+        title: Research Assistant
+        year: Feb 2014&ndash;Nov 2014
+        detail: IIT Bombay NLP Lab
+
+  -
+    heading: Engineering Positions
+    items:
+      -
+        title: Technical Architect
+        year: 2008&ndash;2014
+        detail: Saba Software
+      -
+        title: Software Engineer
+        year: 2005&ndash;2008
+        detail: Infosys Technologies Ltd

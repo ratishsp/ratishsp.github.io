@@ -49,6 +49,16 @@ after-pubs:
             detail: BSc student at Stanford University, mentored during summer 2018
 
   -
+    heading: Volunteering
+    subsections:
+      -
+        heading: 
+        items:
+          -
+            title: Digital Ambassador at University of Edinburgh
+            detail: Volunteer as a Digital Ambassador to help improve digital literacy amongst people, mainly elderly persons in community 
+
+  -
     heading: Research Positions
     items:
       -

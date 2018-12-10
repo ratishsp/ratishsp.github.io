@@ -8,6 +8,7 @@ papers:
     booktitle: "Proceedings of AAAI (To appear)"
     doc-url: https://arxiv.org/abs/1809.00582
     venue: conference
+    code: https://github.com/ratishsp/data2text-plan-py
   - layout: paper
     selected: yes
     year: 2017
@@ -17,6 +18,7 @@ papers:
     booktitle: "Proceedings of EACL"
     doc-url: http://aclweb.org/anthology/E/E17/E17-1061.pdf
     venue: conference
+    code: https://github.com/SUTDNLP/ZGen/tree/deepinputlinearization
   - layout: paper
     year: 2016
     selected: yes
@@ -27,6 +29,7 @@ papers:
     booktitle-url: http://naacl.org/naacl-hlt-2016/
     doc-url: https://www.aclweb.org/anthology/N/N16/N16-1058.pdf
     venue: conference
+    code: https://github.com/SUTDNLP/ZGen/releases/tag/v0.2
   - layout: paper
     year: 2015
     selected: yes
@@ -36,6 +39,7 @@ papers:
     booktitle: Proceedings of NAACL-HLT Demonstrations
     booktitle-url: http://naacl.org/naacl-hlt-2015/
     doc-url: https://www.aclweb.org/anthology/N15-3017
+    code: http://www.cfilt.iitb.ac.in/brahminet/
     venue: workshop
   - layout: paper
     year: 2014

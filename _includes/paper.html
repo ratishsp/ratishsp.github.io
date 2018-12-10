@@ -1,5 +1,7 @@
 {% if include.paper.doc-url %}<a href="{{ include.paper.doc-url }}">{% endif %}
-  {{ include.paper.title }}{% if include.paper.doc-url %}</a>{% endif %}<br/>
+  {{ include.paper.title }}{% if include.paper.doc-url %}</a>{% endif %}
+{% if include.paper.code %}<a href="{{ include.paper.code }}">
+  {{ "Code" }}</a><br/>{% endif %}
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}  
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}

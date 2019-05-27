@@ -3,9 +3,17 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2019
+    title: " Data-to-text Generation with Entity Modeling."
+    authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
+    booktitle: "Proceedings of ACL (To appear)"
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2019
     title: " Data-to-Text Generation with Content Selection and Planning"
     authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
-    booktitle: "Proceedings of AAAI (To appear)"
+    booktitle: "Proceedings of AAAI"
     doc-url: https://arxiv.org/abs/1809.00582
     venue: conference
     code: https://github.com/ratishsp/data2text-plan-py

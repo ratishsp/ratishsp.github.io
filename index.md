@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-I am a second year PhD student in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
+I am a third year PhD student in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
 My advisors are [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (primary) and [Dr. Adam Lopez](http://alopez.github.io/). Prior to this, I worked as 
 a Research Assistant with [Prof. Yue Zhang](https://frcchang.github.io/) in NLP lab at [SUTD](http://www.sutd.edu.sg/), Singapore. 
 

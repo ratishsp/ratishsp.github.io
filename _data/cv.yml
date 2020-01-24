@@ -62,6 +62,10 @@ after-pubs:
     heading: Research Positions
     items:
       -
+        title: Intern in the Summarization team
+        year: Jun 2019&ndash;Sep 2019
+        detail: Google Research, London
+      -
         title: Research Assistant
         year: Mar 2017&ndash;Aug 2017
         detail: SUTD NLP Lab, Singapore

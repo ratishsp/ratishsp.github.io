@@ -5,8 +5,10 @@ papers:
     year: 2019
     title: " Data-to-text Generation with Entity Modeling."
     authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
-    booktitle: "Proceedings of ACL (To appear)"
+    booktitle: "Proceedings of ACL"
+    doc-url: https://www.aclweb.org/anthology/P19-1195/
     venue: conference
+    code: https://github.com/ratishsp/data2text-entity-py
   - layout: paper
     selected: yes
     paper-type: inproceedings

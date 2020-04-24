@@ -3,6 +3,16 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2019
+    title: " University of Edinburgh's submission to the Document-level Generation and Translation Shared Task."
+    authors: "Ratish Puduppully, Jonathan Mallinson, Mirella Lapata"
+    booktitle: "Proceedings of Workshop on Neural Generation and Translation, EMNLP"
+    doc-url: https://www.aclweb.org/anthology/D19-5630/
+    venue: workshop
+    code: https://github.com/ratishsp/data2text-table-plan-py
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2019
     title: " Data-to-text Generation with Entity Modeling."
     authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
     booktitle: "Proceedings of ACL"

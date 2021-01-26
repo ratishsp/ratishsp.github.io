@@ -8,6 +8,7 @@ order:  5
 
 {% include cv-list.html categories=site.data.cv.before-pubs %}
 <h2>Papers</h2>
+{% include paper-list.html venue='journal' heading='Refereed journal papers' %}
 {% include paper-list.html venue='conference' heading='Refereed conference papers' %}
 {% include paper-list.html venue='workshop' heading='Refereed workshop and demonstration papers' %}
 <h2>Patents</h2>

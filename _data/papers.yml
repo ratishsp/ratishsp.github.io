@@ -2,6 +2,14 @@ papers:
   - layout: paper
     selected: yes
     paper-type: inproceedings
+    year: 2021
+    title: "Data-to-text Generation with Macro Planning."
+    authors: "Ratish Puduppully and Mirella Lapata"
+    booktitle: "Transactions of the Association for Computational Linguistics (TACL) (to appear)"
+    venue: journal
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
     year: 2019
     title: " University of Edinburgh's submission to the Document-level Generation and Translation Shared Task."
     authors: "Ratish Puduppully, Jonathan Mallinson, Mirella Lapata"

@@ -6,7 +6,9 @@ papers:
     title: "Data-to-text Generation with Macro Planning."
     authors: "Ratish Puduppully and Mirella Lapata"
     booktitle: "Transactions of the Association for Computational Linguistics (TACL) (to appear)"
+    doc-url: https://arxiv.org/abs/2102.02723
     venue: journal
+    code: https://github.com/ratishsp/data2text-macro-plan-py
   - layout: paper
     selected: yes
     paper-type: inproceedings

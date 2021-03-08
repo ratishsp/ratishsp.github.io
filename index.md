@@ -15,6 +15,16 @@ Even earlier, I was a Technical Architect in a Software Product firm in the Rese
 
 My interests are in the field of Natural Language Processing including Natural Language Generation, Syntactic Linearization and Machine Translation. 
 
+## Research Positions
+
+<div class="row">
+  <div class="col-sm-12">
+      <li> Intern in the Summarization team, Google Research, London [Jun'19 - Oct'19] </li>
+      <li> Research Assistant, SUTD NLP Lab, Singapore [Mar'17 - Aug'17 ] </li>
+      <li> Research Engineer, IIT Bombay NLP Lab, India [May'14 - Dec'14 ] </li>
+  </div>
+</div>
+
 ## Papers
 
 <ul>

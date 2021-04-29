@@ -15,6 +15,8 @@ Even earlier, I was a Technical Architect in a Software Product firm in the Rese
 
 My interests are in the field of Natural Language Processing including Natural Language Generation, Syntactic Linearization and Machine Translation. 
 
+**I am on the job market.**
+
 ## Research Positions
 
 <div class="row">

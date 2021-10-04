@@ -5,8 +5,12 @@ cover: false
 ---
 
 I am a final year PhD student in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
-My advisors are [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) (primary) and [Dr. Adam Lopez](http://alopez.github.io/). 
-My PhD studies are in the area of data-to-text generation, more specifically involving generating long documents (greater than 200 tokens) given a table of statistics as input. As part of my PhD, I have explored novel strategies of content planning for long document generation.
+I am advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/). 
+My interests
+are in the field of Natural Language Processing and Deep Learning.
+My PhD work is in
+Natural Language Generation involving
+data-to-text generation, more specifically generating long documents (more than 200 tokens) given a table of statistics as input. As part of my PhD, I have explored novel strategies of neural content planning for long document generation.
 
 Prior to this, I worked as 
 a Research Assistant with [Prof. Yue Zhang](https://frcchang.github.io/) in NLP lab at [SUTD](http://www.sutd.edu.sg/), Singapore. 
@@ -15,7 +19,7 @@ I completed my MS in CS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/)
 I have also worked as a Research Engineer in the [NLP lab](http://www.cfilt.iitb.ac.in/) lab at [IIT Bombay](http://www.iitb.ac.in/) with [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). 
 Even earlier, I was a Technical Architect in a Software Product firm in the Research division.
 
-My interests are in the field of Natural Language Processing including Natural Language Generation, Syntactic Linearization and Machine Translation. 
+I have also worked in other problems in NLP including Summarization, Syntactic Linearization, Machine Translation and Transliteration, Word Sense Disambiguation, and application of NLP techniques in the financial domain.
 
 **I am on the job market.**
 

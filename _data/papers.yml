@@ -1,6 +1,16 @@
 papers:
   - layout: paper
     selected: yes
+    paper-type: preprint
+    year: 2021
+    title: "IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages"
+    authors: "Raj Dabre, Himani Shrotriya, Anoop Kunchukuttan, Ratish Puduppully, Mitesh M. Khapra, Pratyush Kumar"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2109.02903
+    venue: conference
+    code: https://indicnlp.ai4bharat.org/indic-bart
+  - layout: paper
+    selected: yes
     paper-type: inproceedings
     year: 2021
     title: "Data-to-text Generation with Macro Planning."

@@ -1,11 +1,21 @@
 papers:
   - layout: paper
     selected: yes
-    paper-type: preprint
-    year: 2021
+    paper-type: inproceedings
+    year: 2022
+    title: "Data-to-text Generation with Variational Sequential Planning."
+    authors: "Ratish Puduppully and Yao Fu and Mirella Lapata"
+    booktitle: "Transactions of the Association for Computational Linguistics (TACL) (to appear)"
+    doc-url: https://arxiv.org/abs/2202.13756
+    venue: journal
+    code: https://github.com/ratishsp/data2text-seq-plan-py
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2022
     title: "IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages"
     authors: "Raj Dabre, Himani Shrotriya, Anoop Kunchukuttan, Ratish Puduppully, Mitesh M. Khapra, Pratyush Kumar"
-    booktitle: "axXiv Preprint"
+    booktitle: "Findings of ACL"
     doc-url: https://arxiv.org/abs/2109.02903
     venue: conference
     code: https://indicnlp.ai4bharat.org/indic-bart
@@ -15,7 +25,7 @@ papers:
     year: 2021
     title: "Data-to-text Generation with Macro Planning."
     authors: "Ratish Puduppully and Mirella Lapata"
-    booktitle: "Transactions of the Association for Computational Linguistics (TACL) (to appear)"
+    booktitle: "Transactions of the Association for Computational Linguistics (TACL)"
     doc-url: https://arxiv.org/abs/2102.02723
     venue: journal
     code: https://github.com/ratishsp/data2text-macro-plan-py

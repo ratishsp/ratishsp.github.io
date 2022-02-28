@@ -4,12 +4,10 @@ title: About me
 cover: false
 ---
 
-I am a final year PhD student in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
-I am advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/). 
-My interests
-are in the field of Natural Language Processing and Deep Learning.
-My PhD work is in
-Natural Language Generation involving
+I am working as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/).
+Earlier, I finished my PhD advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
+My interests are in the field of Natural Language Processing and Deep Learning.
+My PhD work was in Natural Language Generation involving
 data-to-text generation, more specifically generating long documents (more than 200 tokens) given a table of statistics as input. As part of my PhD, I have explored novel strategies of neural content planning for long document generation.
 
 Prior to this, I worked as 
@@ -20,8 +18,6 @@ I have also worked as a Research Engineer in the [NLP lab](http://www.cfilt.iitb
 Even earlier, I was a Technical Architect in a Software Product firm in the Research division.
 
 I have also worked in other problems in NLP including Summarization, Syntactic Linearization, Machine Translation and Transliteration, Word Sense Disambiguation, and application of NLP techniques in the financial domain.
-
-**I am on the job market.**
 
 ## Research Positions
 

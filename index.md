@@ -8,7 +8,9 @@ I am working as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac
 Earlier, I finished my PhD advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
 My interests are in the field of Natural Language Processing and Deep Learning.
 My PhD work was in Natural Language Generation involving
-data-to-text generation, more specifically generating long documents (more than 200 tokens) given a table of statistics as input. As part of my PhD, I have explored novel strategies of neural content planning for long document generation.
+data-to-text generation, more specifically generating long documents (more than 200 tokens) given a table of statistics as input. 
+My thesis topic was ["Data-to-text generation with Neural Planning"](https://ratishsp.github.io/assets/pdf/inf_phd_thesis.pdf).
+As part of my PhD, I have explored novel strategies of neural content planning for long document generation.
 
 Prior to this, I worked as 
 a Research Assistant with [Prof. Yue Zhang](https://frcchang.github.io/) in NLP lab at [SUTD](http://www.sutd.edu.sg/), Singapore. 

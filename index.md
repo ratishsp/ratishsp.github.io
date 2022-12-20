@@ -4,8 +4,7 @@ title: About me
 cover: false
 ---
 
-I am working as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/).
-Earlier, I finished my PhD advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
+I am a Research Scientist at AStar Singapore. Earlier, I was a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/). I finished my PhD advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
 My interests are in the field of Natural Language Processing and Deep Learning.
 My PhD work was in Natural Language Generation involving
 data-to-text generation, more specifically generating long documents (more than 200 tokens) given a table of statistics as input. 

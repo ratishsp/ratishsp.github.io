@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-I am currently a Research Scientist at A*STAR Singapore, specializing in Natural Language Processing and Deep Learning. Before joining A*STAR, I worked as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) and completed my PhD under the guidance of [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) at the [Informatics Institute](http://web.inf.ed.ac.uk/) of the [University of Edinburgh](https://www.ed.ac.uk/).
+I am currently a Research Scientist at A\*STAR Singapore, specializing in Natural Language Processing and Deep Learning. Before joining A*STAR, I worked as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) and completed my PhD under the guidance of [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) at the [Informatics Institute](http://web.inf.ed.ac.uk/) of the [University of Edinburgh](https://www.ed.ac.uk/).
 
 My PhD research focused on Natural Language Generation, specifically data-to-text generation. I developed techniques for generating long documents (more than 200 tokens) from tables of statistics as input. My thesis, titled ["Data-to-text generation with Neural Planning"](https://ratishsp.github.io/assets/pdf/inf_phd_thesis.pdf), explored novel strategies for neural content planning in long document generation. My PhD thesis received the [Best Dissertation in Scotland](https://www.sicsa.ac.uk/news/sicsa-conference-2022/) award from SICSA Scotland. During my PhD, I also interned with the Summarization team at Google Research, London.
 

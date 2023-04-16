@@ -4,31 +4,16 @@ title: About me
 cover: false
 ---
 
-I am a Research Scientist at AStar Singapore. Earlier, I was a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/). I finished my PhD advised by [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) in [Informatics Institute](http://web.inf.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
-My interests are in the field of Natural Language Processing and Deep Learning.
-My PhD work was in Natural Language Generation involving
-data-to-text generation, more specifically generating long documents (more than 200 tokens) given a table of statistics as input. 
-My thesis topic was ["Data-to-text generation with Neural Planning"](https://ratishsp.github.io/assets/pdf/inf_phd_thesis.pdf).
-As part of my PhD, I have explored novel strategies of neural content planning for long document generation.
+I am currently a Research Scientist at A*STAR Singapore, specializing in Natural Language Processing and Deep Learning. Before joining A*STAR, I worked as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) and completed my PhD under the guidance of [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) at the [Informatics Institute](http://web.inf.ed.ac.uk/) of the [University of Edinburgh](https://www.ed.ac.uk/).
 
-Prior to this, I worked as 
-a Research Assistant with [Prof. Yue Zhang](https://frcchang.github.io/) in NLP lab at [SUTD](http://www.sutd.edu.sg/), Singapore. 
-I completed my MS in CS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) in Feb 2017. My thesis topic was 
-"Transition based technique for Syntactic Linearization and Deep Input Linearization". 
-I have also worked as a Research Engineer in the [NLP lab](http://www.cfilt.iitb.ac.in/) lab at [IIT Bombay](http://www.iitb.ac.in/) with [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). 
-Even earlier, I was a Technical Architect in a Software Product firm in the Research division.
+My PhD research focused on Natural Language Generation, specifically data-to-text generation. I developed techniques for generating long documents (more than 200 tokens) from tables of statistics as input. My thesis, titled ["Data-to-text generation with Neural Planning"](https://ratishsp.github.io/assets/pdf/inf_phd_thesis.pdf), explored novel strategies for neural content planning in long document generation. My PhD thesis received the [Best Dissertation in Scotland](https://www.sicsa.ac.uk/news/sicsa-conference-2022/) award from SICSA Scotland. During my PhD, I also interned with the Summarization team at Google Research, London.
 
-I have also worked in other problems in NLP including Summarization, Syntactic Linearization, Machine Translation and Transliteration, Word Sense Disambiguation, and application of NLP techniques in the financial domain.
+Before my PhD, I gained valuable experience in various research positions:
+- Research Assistant with [Prof. Yue Zhang](https://frcchang.github.io/) at the NLP lab of [SUTD](http://www.sutd.edu.sg/), Singapore.
+- Research Engineer at the [NLP lab](http://www.cfilt.iitb.ac.in/) of [IIT Bombay](http://www.iitb.ac.in/), working with [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+- Technical Architect in the research division of a Software Product firm.
 
-## Research Positions
-
-<div class="row">
-  <div class="col-sm-12">
-      <li> Intern in the Summarization team, Google Research, London [Jun'19 - Oct'19] </li>
-      <li> Research Assistant, SUTD NLP Lab, Singapore [Mar'17 - Aug'17 ] </li>
-      <li> Research Engineer, IIT Bombay NLP Lab, India [May'14 - Dec'14 ] </li>
-  </div>
-</div>
+I completed my MS in Computer Science by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) in February 2017. My thesis focused on "Transition-based techniques for Syntactic Linearization and Deep Input Linearization."
 
 ## Papers
 

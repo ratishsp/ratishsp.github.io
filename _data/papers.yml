@@ -21,6 +21,36 @@ papers:
     code: https://github.com/AI4Bharat/CTQScorer
   - layout: paper
     selected: yes
+    paper-type: preprint
+    year: 2023
+    title: "IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages"
+    authors: "AI4Bharat, Jay Gala, Pranjal A. Chitale, Raghavan AK, Sumanth Doddapaneni, Varun Gumma, Aswanth Kumar, Janki Nawale, Anupama Sujatha, Ratish Puduppully, Vivek Raghavan, Pratyush Kumar, Mitesh M. Khapra, Raj Dabre, Anoop Kunchukuttan"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2305.16307
+    venue: conference
+    code: https://ai4bharat.iitm.ac.in/indic-trans2
+  - layout: paper
+    selected: yes
+    paper-type: preprint
+    year: 2023
+    title: "A Comprehensive Analysis of Adapter Efficiency"
+    authors: "Nandini Mundra, Sumanth Doddapaneni, Raj Dabre, Anoop Kunchukuttan, Ratish Puduppully, Mitesh M Khapra"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2305.07491
+    venue: conference
+    code: https://github.com/AI4Bharat/adapter-efficiency
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2023
+    title: "Multi-Document Summarization with Centroid-Based Pretraining"
+    authors: "Ratish Surendran Puduppully, Parag Jain, Nancy Chen, Mark Steedman"
+    booktitle: "Proceedings of ACL"
+    doc-url: https://aclanthology.org/2023.acl-short.13
+    venue: conference
+    code: https://github.com/ratishsp/centrum
+  - layout: paper
+    selected: yes
     paper-type: inproceedings
     year: 2022
     title: "IndicNLG Suite: Multilingual Datasets for Diverse NLG Tasks in Indic Languages"

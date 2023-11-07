@@ -1,12 +1,12 @@
 papers:
   - layout: paper
     selected: yes
-    paper-type: preprint
+    paper-type: inproceedings
     year: 2022
     title: "IndicNLG Suite: Multilingual Datasets for Diverse NLG Tasks in Indic Languages"
     authors: "Aman Kumar, Himani Shrotriya, Prachi Sahu, Raj Dabre, Ratish Puduppully, Anoop Kunchukuttan, Amogh Mishra, Mitesh M. Khapra, Pratyush Kumar"
-    booktitle: "axXiv Preprint"
-    doc-url: https://arxiv.org/abs/2203.05437
+    booktitle: "Proceedings of EMNLP"
+    doc-url: https://aclanthology.org/2022.emnlp-main.360
     venue: conference
     code: https://indicnlp.ai4bharat.org/indicnlg-suite/
   - layout: paper

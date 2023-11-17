@@ -1,6 +1,15 @@
 papers:
   - layout: paper
     selected: yes
+    paper-type: preprint
+    year: 2023
+    title: "VerityMath: Advancing Mathematical Reasoning by Self-Verification Through Unit Consistency"
+    authors: "Vernon Toh, Ratish Puduppully, Nancy F. Chen"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2311.07172
+    venue: conference
+  - layout: paper
+    selected: yes
     paper-type: inproceedings
     year: 2023
     title: "Decomposed Prompting for Machine Translation Between Related Languages using Large Language Models"

@@ -15,6 +15,17 @@ Before my PhD, I gained valuable experience in various research positions:
 
 I completed my MS in Computer Science by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) in February 2017. My thesis focused on "Transition-based techniques for Syntactic Linearization and Deep Input Linearization."
 
+## News
+
+<ul>
+{% for item in site.data.news.items %}
+  <li>
+    <strong>{{ item.date }}:</strong> {{ item.description }}
+    {% if item.link %}<a href="{{ item.link }}">Read more</a>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+
 ## Papers
 For my latest publications, please visit my [Google Scholar profile](https://scholar.google.co.in/citations?hl=en&user=FrB_UMIAAAAJ&view_op=list_works&sortby=pubdate).
 

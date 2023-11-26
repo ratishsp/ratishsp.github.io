@@ -30,13 +30,13 @@ papers:
     code: https://github.com/AI4Bharat/CTQScorer
   - layout: paper
     selected: yes
-    paper-type: preprint
+    paper-type: inproceedings
     year: 2023
     title: "IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages"
     authors: "AI4Bharat, Jay Gala, Pranjal A. Chitale, Raghavan AK, Sumanth Doddapaneni, Varun Gumma, Aswanth Kumar, Janki Nawale, Anupama Sujatha, Ratish Puduppully, Vivek Raghavan, Pratyush Kumar, Mitesh M. Khapra, Raj Dabre, Anoop Kunchukuttan"
-    booktitle: "axXiv Preprint"
+    booktitle: "Transactions of Machine Learning Research (TMLR) (to appear)"
     doc-url: https://arxiv.org/abs/2305.16307
-    venue: conference
+    venue: journal
     code: https://ai4bharat.iitm.ac.in/indic-trans2
   - layout: paper
     selected: yes
@@ -74,7 +74,7 @@ papers:
     year: 2022
     title: "Data-to-text Generation with Variational Sequential Planning."
     authors: "Ratish Puduppully and Yao Fu and Mirella Lapata"
-    booktitle: "Transactions of the Association for Computational Linguistics (TACL) (to appear)"
+    booktitle: "Transactions of the Association for Computational Linguistics (TACL)"
     doc-url: https://arxiv.org/abs/2202.13756
     venue: journal
     code: https://github.com/ratishsp/data2text-seq-plan-py

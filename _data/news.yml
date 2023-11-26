@@ -1,4 +1,30 @@
 items:
+  - date: "25 Jan 2024"
+    description: "Introducing Airavata, Hindi Instruction-tuned LLM "
+    links:
+      - title: "Blog"
+        url: "https://ai4bharat.github.io/airavata/"
+  - date: "24 Jan 2024"
+    description: "RomanSetu for unlocking multilingual capabilities of Large Language Models via Romanization"
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2401.14280"
   - date: "21 Nov 2023"
     description: "IndicTrans2 is accepted to Transactions of Machine Learning Research (TMLR)"
-    link: "https://arxiv.org/abs/2305.16307"
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2305.16307"
+
+  - date: "13 Nov 2023"
+    description: "VerityMath for applying unit consistency check for math problem solving"
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2311.07172"
+
+  - date: "9 Oct 2023"
+    description: "Two papers accepted to EMNLP. DecoMT is accepted to Main and CTQScorer to Findings"
+    links:
+      - title: "DecoMT Preprint"
+        url: "https://arxiv.org/abs/2305.14105"
+      - title: "CTQScorer Preprint"
+        url: "https://arxiv.org/abs/2305.13085"

@@ -27,8 +27,8 @@ papers:
     venue: conference
   - layout: paper
     selected: yes
-    paper-type: preprint
-    year: 2023
+    paper-type: inproceedings
+    year: 2024
     title: "VerityMath: Advancing Mathematical Reasoning by Self-Verification Through Unit Consistency"
     authors: "Vernon Toh, Ratish Puduppully, Nancy F. Chen"
     booktitle: "AI4Math Workshop at ICML 2024"

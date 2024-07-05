@@ -5,7 +5,7 @@ before-pubs:
       -
         title: Ph.D
         year: September 2017 - Nov 2021
-        detail: University of Edinburgh 
+        detail: University of Edinburgh
       -
         title: M.S by Research in Computer Science
         year: 2017
@@ -16,7 +16,7 @@ before-pubs:
         detail: K.J. Somaiya College of Engineering, Mumbai University
 after-pubs:
   -
-    heading: Awards 
+    heading: Awards
     items:
       -
         title: Global Research Scholarship
@@ -39,40 +39,40 @@ after-pubs:
           -
             title: Tutor for Accelerated Natural Language Processing
             year: 2018
-            detail: 
+            detail:
 
- 
+
   -
     heading: Mentoring Experience
     items:
       -
         title: Jaavid Akhtar
-	detail: Research Intern at IIT Madras on "RomanSetu- Efficiently unlocking multilingual capabilities of Large Language Models via Romanization" (2023)
-      -	
-	title: Nandini Mundhra
-	detail: M.S. by Research student from IIT Madras on "A Comprehensive Analysis of Adapter Efficiency" (2023)
-      -	
-	title: Aswanth Kumar
-	detail: MTech student from IIT Madras on "In-context Example Selection for Machine Translation Using Multiple Features" (2023)
-      -	
-	title: Yuting Tang
-	detail: Undergraduate student from NTU Singapore on LLM evaluation (2023)
-      -	
-	title: Vernon Toh
-	detail: Undergraduate student from SUTD Singapore on Math Language Models (2023)
-      -	
-	title: Himani Shrotriya, Aman Kumar, and Prachi Sahu
-	detail: MTech students from IIT Madras on the project "IndicNLG Benchmark- Multilingual Datasets for Diverse NLG Tasks in Indic Languages" (2022)
+        detail: Research Intern at IIT Madras on "RomanSetu- Efficiently unlocking multilingual capabilities of Large Language Models via Romanization" (2023)
+      -
+        title: Nandini Mundhra
+        detail: M.S. by Research student from IIT Madras on "A Comprehensive Analysis of Adapter Efficiency" (2023)
+      -
+        title: Aswanth Kumar
+        detail: MTech student from IIT Madras on "In-context Example Selection for Machine Translation Using Multiple Features" (2023)
+      -
+        title: Yuting Tang
+        detail: Undergraduate student from NTU Singapore on LLM evaluation (2023)
+      -
+        title: Vernon Toh
+        detail: Undergraduate student from SUTD Singapore on Math Language Models (2023)
+      -
+        title: Himani Shrotriya, Aman Kumar, and Prachi Sahu
+        detail: MTech students from IIT Madras on the project "IndicNLG Benchmark- Multilingual Datasets for Diverse NLG Tasks in Indic Languages" (2022)
 
   -
     heading: Volunteering
     subsections:
       -
-        heading: 
+        heading:
         items:
           -
             title: Digital Ambassador at University of Edinburgh
-            detail: Volunteer as a Digital Ambassador to help improve digital literacy amongst people, mainly elderly persons in community 
+            detail: Volunteer as a Digital Ambassador to help improve digital literacy amongst people, mainly elderly persons in community
 
   -
     heading: Research Positions

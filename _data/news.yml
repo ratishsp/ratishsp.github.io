@@ -1,4 +1,11 @@
 items:
+  - date: "16 May 2024"
+    description: "Two papers accepted to ACL: RomanSetu and a paper on Indic MT Eval"
+    links:
+      - title: "RomanSetu Preprint"
+        url: "https://arxiv.org/abs/2401.14280"
+      - title: "Indic MT Eval Preprint"
+        url: "https://arxiv.org/abs/2406.03893"
   - date: "25 Jan 2024"
     description: "Introducing Airavata, Hindi Instruction-tuned LLM "
     links:

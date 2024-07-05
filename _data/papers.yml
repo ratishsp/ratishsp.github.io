@@ -1,30 +1,30 @@
 papers:
-- layout: paper
-  selected: yes
-  paper-type: preprint
-  year: 2024
-  title: "Airavata: Introducing Hindi Instruction-tuned LLM"
-  authors: "Jay Gala, Thanmay Jayakumar, Jaavid Aktar Husain, Aswanth Kumar M, Mohammed Safi Ur Rahman Khan, Diptesh Kanojia, Ratish Puduppully, Mitesh M. Khapra, Raj Dabre, Rudra Murthy, Anoop Kunchukuttan"
-  doc-url: https://arxiv.org/abs/2401.15006
-  venue: arXiv
-- layout: paper
-  selected: yes
-  paper-type: inproceedings
-  year: 2024
-  title: "RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization"
-  authors: "Jaavid Aktar Husain, Raj Dabre, Aswanth Kumar, Ratish Puduppully, Anoop Kunchukuttan"
-  booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (to appear)"
-  doc-url: https://arxiv.org/abs/2401.15006
-  venue: conference
-- layout: paper
-  selected: yes
-  paper-type: inproceedings
-  year: 2024
-  title: "How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?"
-  authors: "Anushka Singh, Ananya B. Sai, Raj Dabre, Ratish Puduppully, Anoop Kunchukuttan, Mitesh M. Khapra"
-  booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Short Papers) (to appear)"
-  doc-url: https://arxiv.org/abs/2406.03893
-  venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: preprint
+    year: 2024
+    title: "Airavata: Introducing Hindi Instruction-tuned LLM"
+    authors: "Jay Gala, Thanmay Jayakumar, Jaavid Aktar Husain, Aswanth Kumar M, Mohammed Safi Ur Rahman Khan, Diptesh Kanojia, Ratish Puduppully, Mitesh M. Khapra, Raj Dabre, Rudra Murthy, Anoop Kunchukuttan"
+    doc-url: https://arxiv.org/abs/2401.15006
+    venue: arXiv
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2024
+    title: "RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization"
+    authors: "Jaavid Aktar Husain, Raj Dabre, Aswanth Kumar, Ratish Puduppully, Anoop Kunchukuttan"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (to appear)"
+    doc-url: https://arxiv.org/abs/2401.15006
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2024
+    title: "How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?"
+    authors: "Anushka Singh, Ananya B. Sai, Raj Dabre, Ratish Puduppully, Anoop Kunchukuttan, Mitesh M. Khapra"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Short Papers) (to appear)"
+    doc-url: https://arxiv.org/abs/2406.03893
+    venue: conference
   - layout: paper
     selected: yes
     paper-type: preprint

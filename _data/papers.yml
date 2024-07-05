@@ -31,7 +31,7 @@ papers:
     year: 2024
     title: "VerityMath: Advancing Mathematical Reasoning by Self-Verification Through Unit Consistency"
     authors: "Vernon Toh, Ratish Puduppully, Nancy F. Chen"
-    booktitle: "AI4Math Workshop at ICML 2024"
+    booktitle: "AI4Math Workshop at ICML"
     doc-url: https://openreview.net/forum?id=S9utaRXaZt
     venue: workshop
   - layout: paper

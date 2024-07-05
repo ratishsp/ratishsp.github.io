@@ -1,4 +1,10 @@
 items:
+  - date: "13 Jun 2024"
+    description: "VerityMath paper accepted to AI4Math workshop at ICML 2024"
+    links:
+      - title: "Paper"
+        url: "https://openreview.net/forum?id=S9utaRXaZt"
+
   - date: "16 May 2024"
     description: "Two papers accepted to ACL: RomanSetu and a paper on Indic MT Eval"
     links:

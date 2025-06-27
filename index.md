@@ -10,15 +10,13 @@ I completed my PhD at the [University of Edinburgh](https://www.ed.ac.uk/), wher
 
 My research interests include:
 
-- **Planning and Long-Context Modeling**: I work on improving models' ability to plan and reason over long contexts, including macro/variational planning ([TACL'21](https://doi.org/10.1162/tacl_a_00381), [TACL'22](https://doi.org/10.1162/tacl_a_00484)), multi-document summarization ([ACL'23](https://aclanthology.org/2023.acl-short.13)), and state space models ([Chimera ICLR'25 W](https://openreview.net/forum?id=uneMbnwmW8)).
+- **Planning and Long-Context Modeling**: I work on improving models' ability to plan and reason over long contexts. This includes macro and variational planning ([TACL'21](https://doi.org/10.1162/tacl_a_00381), [TACL'22](https://doi.org/10.1162/tacl_a_00484)), multi-document summarization ([ACL'23](https://aclanthology.org/2023.acl-short.13)), and long-context architectures like state space models ([Chimera, ICLR'25 W](https://openreview.net/forum?id=uneMbnwmW8)).
 
-- **Multilinguality and Transfer Learning**: I explore methods for low-resource and non-Roman script languages using romanization ([RomanLens ACL'25](https://arxiv.org/abs/2502.07424), [RomanSetu ACL'24](https://aclanthology.org/2024.acl-long.833/)) and chunk-based translation via relatedness ([DecoMT EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)).
+- **Multilinguality, Transfer Learning, and Interpretability**: I explore methods to make LLMs effective for low-resource and non-Roman script languages through romanization ([RomanLens, ACL'25](https://arxiv.org/abs/2502.07424), [RomanSetu, ACL'24](https://aclanthology.org/2024.acl-long.833/)) and language-relatedness-based chunking ([DecoMT, EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)). I also study how LLMs internally represent such multilingual data, including latent romanization.
 
-- **Mechanistic Interpretability**: I study how LLMs internally represent content, including latent romanization in multilingual settings ([RomanLens ACL'25](https://arxiv.org/abs/2502.07424)).
+- **Reasoning**: I study mathematical reasoning in open-source LLMs. Our work ([VerityMath, ICML'24](https://arxiv.org/abs/2311.07172)) identifies unit consistency as a key challenge and introduces Unit Consistency Programs (UCPs) as a solution.
 
-- **Genomics Applications**: I develop LLMs for biomedical domains, focusing on genome modeling via task-specific self-pretraining ([ICML-GenBio'25](https://arxiv.org/abs/2506.17766)).
-
-- **Reasoning**: I study mathematical reasoning in LLMs. Our work ([VerityMath ICML'24](https://arxiv.org/abs/2311.07172)) highlights unit consistency as a challenge and introduces Unit Consistency Programs (UCPs).
+- **Scientific and Domain-Specific Applications**: I develop LLMs for specialized domains such as genomics. Recent work focuses on task-specific self-pretraining for genome modeling ([ICML-GenBio'25](https://arxiv.org/abs/2506.17766)).
 
 ## News
 

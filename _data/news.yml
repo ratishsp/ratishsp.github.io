@@ -1,4 +1,28 @@
 items:
+  - date: "12 Jun 2025"
+    description: "Paper on self-pretraining for genome modeling accepted to ICML 2025 Workshop on Generative AI for Biology"
+    links:
+      - title: "Paper"
+        url: "https://arxiv.org/abs/2506.17766"
+
+  - date: "16 May 2025"
+    description: "RomanLens to appear in Findings of ACL 2025"
+    links:
+      - title: "Paper"
+        url: "https://arxiv.org/abs/2502.07424"
+
+  - date: "11 Feb 2025"
+    description: "RomanLens paper on latent romanization in multilingual LLMs"
+    links:
+      - title: "Paper"
+        url: "https://arxiv.org/abs/2502.07424"
+
+  - date: "25 Sep 2024"
+    description: "Paper on vocabulary expansion and initialization strategies for LLMs accepted to CoNLL 2024"
+    links:
+      - title: "Paper"
+        url: "https://aclanthology.org/2024.conll-1.8/"
+
   - date: "13 Jun 2024"
     description: "VerityMath paper accepted to AI4Math workshop at ICML 2024"
     links:

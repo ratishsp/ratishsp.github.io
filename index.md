@@ -4,18 +4,21 @@ title: About Me
 cover: false
 ---
 
-I am currently an Assistant Professor in the NLP group at [IT University, Copenhagen](https://en.itu.dk/). My research interests include improving large language models (LLMs), particularly multilingual ones, and integrating LLMs with symbolic systems.
+I am an Assistant Professor in the NLP group at [IT University of Copenhagen](https://en.itu.dk/).
 
-Previously, I was a Research Scientist at A\*STAR, Singapore. Before joining A\*STAR, I worked as a PostDoc with [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) and completed my PhD under the supervision of [Prof. Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/) at the [Informatics Institute](http://web.inf.ed.ac.uk/) of the [University of Edinburgh](https://www.ed.ac.uk/).
+I completed my PhD at the [University of Edinburgh](https://www.ed.ac.uk/), where my [thesis](https://ratishsp.github.io/assets/pdf/inf_phd_thesis.pdf) on neural planning for long-document generation received the best dissertation in Scotland [award](https://www.sicsa.ac.uk/news/sicsa-conference-2022/) from SICSA. During my PhD, I also interned with the Summarization team at Google Research, London.
 
-My PhD research focused on Natural Language Generation, specifically data-to-text generation. I developed techniques for generating long documents (over 200 tokens) from statistical tables as input. My thesis, titled ["Data-to-text Generation with Neural Planning"](https://ratishsp.github.io/assets/pdf/inf_phd_thesis.pdf), explored novel strategies for neural content planning in long-document generation. My thesis received the [Best Dissertation in Scotland](https://www.sicsa.ac.uk/news/sicsa-conference-2022/) award from SICSA Scotland. During my PhD, I also interned with the Summarization team at [Google Research](https://research.google/), London.
+My research interests include:
 
-Before my PhD, I held several research positions, including:
-- Research Assistant with [Prof. Yue Zhang](https://frcchang.github.io/) at the NLP lab of [SUTD](http://www.sutd.edu.sg/), Singapore.
-- Research Engineer at the [NLP lab](http://www.cfilt.iitb.ac.in/) of [IIT Bombay](http://www.iitb.ac.in/), working with [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
-- Technical Architect in the research division of a software product firm.
+- **Planning and Long-Context Modeling**: I work on improving models' ability to plan and reason over long contexts, including macro/variational planning ([TACL'21](https://doi.org/10.1162/tacl_a_00381), [TACL'22](https://doi.org/10.1162/tacl_a_00484)), multi-document summarization ([ACL'23](https://aclanthology.org/2023.acl-short.13)), and state space models ([Chimera ICLR'25 W](https://openreview.net/forum?id=uneMbnwmW8)).
 
-I completed my MS in Computer Science by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) under the guidance of [Prof. Manish Shrivastava](https://www.iiit.ac.in/people/faculty/m.shrivastava/) in February 2017. My thesis focused on "Transition-based Techniques for Syntactic Linearization and Deep Input Linearization."
+- **Multilinguality and Transfer Learning**: I explore methods for low-resource and non-Roman script languages using romanization ([RomanLens ACL'25](https://arxiv.org/abs/2502.07424), [RomanSetu ACL'24](https://aclanthology.org/2024.acl-long.833/)) and chunk-based translation via relatedness ([DecoMT EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)).
+
+- **Mechanistic Interpretability**: I study how LLMs internally represent content, including latent romanization in multilingual settings ([RomanLens ACL'25](https://arxiv.org/abs/2502.07424)).
+
+- **Genomics Applications**: I develop LLMs for biomedical domains, focusing on genome modeling via task-specific self-pretraining ([ICML-GenBio'25](https://arxiv.org/abs/2506.17766)).
+
+- **Reasoning**: I study mathematical reasoning in LLMs. Our work ([VerityMath ICML'24](https://arxiv.org/abs/2311.07172)) highlights unit consistency as a challenge and introduces Unit Consistency Programs (UCPs).
 
 ## News
 

@@ -31,7 +31,7 @@ My research interests include:
 {% endfor %}
 </ul>
 
-## Papers
+## Selected Publications
 
 For my latest publications, please visit my [Google Scholar profile](https://scholar.google.co.in/citations?hl=en&user=FrB_UMIAAAAJ&view_op=list_works&sortby=pubdate).
 

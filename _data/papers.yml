@@ -1,6 +1,6 @@
 papers:
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: preprint
     year: 2024
     title: "Airavata: Introducing Hindi Instruction-tuned LLM"
@@ -17,7 +17,7 @@ papers:
     doc-url: https://arxiv.org/abs/2401.15006
     venue: conference
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2024
     title: "How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?"
@@ -45,7 +45,7 @@ papers:
     venue: conference
     code: https://github.com/ratishsp/DecoMT
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2023
     title: "CTQScorer: Combining Multiple Features for In-context Example Selection for Machine Translation"
@@ -65,7 +65,7 @@ papers:
     venue: journal
     code: https://ai4bharat.iitm.ac.in/indic-trans2
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: preprint
     year: 2023
     title: "A Comprehensive Analysis of Adapter Efficiency"
@@ -85,7 +85,7 @@ papers:
     venue: conference
     code: https://github.com/ratishsp/centrum
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2022
     title: "IndicNLG Suite: Multilingual Datasets for Diverse NLG Tasks in Indic Languages"
@@ -105,7 +105,7 @@ papers:
     venue: journal
     code: https://github.com/ratishsp/data2text-seq-plan-py
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2022
     title: "IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages"
@@ -125,7 +125,7 @@ papers:
     venue: journal
     code: https://github.com/ratishsp/data2text-macro-plan-py
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2019
     title: " University of Edinburgh's submission to the Document-level Generation and Translation Shared Task."
@@ -155,7 +155,7 @@ papers:
     venue: conference
     code: https://github.com/ratishsp/data2text-plan-py
   - layout: paper
-    selected: yes
+    selected: no
     year: 2017
     paper-type: inproceedings
     title: "Transition-Based Deep Input Linearization"
@@ -166,7 +166,7 @@ papers:
     code: https://github.com/SUTDNLP/ZGen/tree/deepinputlinearization
   - layout: paper
     year: 2016
-    selected: yes
+    selected: no
     paper-type: inproceedings
     title: "Transition-Based Syntactic Linearization with Lookahead Features"
     authors: "Ratish Puduppully, Yue Zhang and Manish Shrivastava"
@@ -177,7 +177,7 @@ papers:
     code: https://github.com/SUTDNLP/ZGen/releases/tag/v0.2
   - layout: paper
     year: 2015
-    selected: yes
+    selected: no
     paper-type: inproceedings
     title: "Brahmi-Net - An online system for transliteration and script conversion for Indian languages"
     authors: "Anoop Kunchukuttan*, Ratish Puduppully* and Pushpak Bhattacharyya"
@@ -188,7 +188,7 @@ papers:
     venue: workshop
   - layout: paper
     year: 2014
-    selected: yes
+    selected: no
     paper-type: inproceedings
     title: "Merging Verb Senses of Hindi WordNet using Word Embeddings"
     authors: "Sudha Bhingardive, Ratish Puduppully, Dhirendra Singh and Pushpak Bhattacharyya"
@@ -198,7 +198,7 @@ papers:
     venue: conference
   - layout: paper
     year: 2014
-    selected: yes
+    selected: no
     paper-type: inproceedings
     title: "The IIT Bombay SMT System for ICON 2014 Tools Contest"
     authors: "Anoop Kunchukuttan, Ratish Puduppully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya"

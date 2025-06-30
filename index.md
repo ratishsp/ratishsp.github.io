@@ -12,9 +12,9 @@ My research interests include:
 
 - **Planning and Long-Context Modeling**: I work on improving models' ability to plan and reason over long contexts. This includes macro and variational planning ([TACL'21](https://doi.org/10.1162/tacl_a_00381), [TACL'22](https://doi.org/10.1162/tacl_a_00484)), multi-document summarization ([ACL'23](https://aclanthology.org/2023.acl-short.13)), and long-context architectures like state space models ([Chimera, ICLR'25 W](https://openreview.net/forum?id=uneMbnwmW8)).
 
-- **Multilinguality, Transfer Learning, and Interpretability**: I explore methods to make LLMs effective for low-resource and non-Roman script languages through romanization ([RomanLens, ACL'25](https://arxiv.org/abs/2502.07424), [RomanSetu, ACL'24](https://aclanthology.org/2024.acl-long.833/)) and language-relatedness-based chunking ([DecoMT, EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)). I also study how LLMs internally represent such multilingual data, including latent romanization.
+- **Multilinguality, Transfer Learning, and Interpretability**: I explore methods to make LLMs effective for low-resource and non-Roman script languages through romanization ([RomanSetu, ACL'24](https://aclanthology.org/2024.acl-long.833/)) and language-relatedness-based chunking ([DecoMT, EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)). I also study how LLMs internally represent such multilingual data, including latent romanization ([RomanLens, ACL'25](https://arxiv.org/abs/2502.07424)).
 
-- **Reasoning**: I study mathematical reasoning in open-source LLMs. Our work ([VerityMath, ICML'24](https://arxiv.org/abs/2311.07172)) identifies unit consistency as a key challenge and introduces Unit Consistency Programs (UCPs) as a solution.
+- **Reasoning**: I study mathematical reasoning in open-weights LLMs. Our work ([VerityMath, ICML'24](https://arxiv.org/abs/2311.07172)) identifies unit consistency as a key challenge and introduces Unit Consistency Programs (UCPs) as a solution.
 
 - **Scientific and Domain-Specific Applications**: I develop LLMs for specialized domains such as genomics. Recent work focuses on task-specific self-pretraining for genome modeling ([ICML-GenBio'25](https://arxiv.org/abs/2506.17766)).
 

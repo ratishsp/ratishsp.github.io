@@ -1,19 +1,11 @@
 ---
 layout: page
-title:  CV
-cover:  false
-menu:   true
-order:  5
+title: CV
+cover: false
+menu: true
+order: 5
 ---
 
-{% include cv-list.html categories=site.data.cv.before-pubs %}
-<h2>Papers</h2>
-{% include paper-list.html venue='journal' heading='Refereed journal papers' %}
-{% include paper-list.html venue='conference' heading='Refereed conference papers' %}
-{% include paper-list.html venue='workshop' heading='Refereed workshop and demonstration papers' %}
-<h2>Patents</h2>
-{% include patent-list.html venue='patent grant' heading='Patents' %}
-{% include cv-list.html categories=site.data.cv.after-pubs %}
-
-
+You can download my full CV as a PDF here:  
+[📄 Download CV (PDF)](/assets/pdf/CV.pdf)
 

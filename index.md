@@ -20,16 +20,18 @@ My research interests include:
 
 ## News
 
-<ul>
-{% for item in site.data.news.items %}
-  <li>
-    <strong>{{ item.date }}:</strong> {{ item.description }}
-    {% for link in item.links %}
-      - <a href="{{ link.url }}">{{ link.title }}</a>
+<div style="max-height: 200px; overflow-y: auto; padding-right: 10px; border: 1px solid #ddd; border-radius: 6px;">
+  <ul>
+    {% for item in site.data.news.items %}
+      <li>
+        <strong>{{ item.date }}:</strong> {{ item.description }}
+        {% for link in item.links %}
+          - <a href="{{ link.url }}">{{ link.title }}</a>
+        {% endfor %}
+      </li>
     {% endfor %}
-  </li>
-{% endfor %}
-</ul>
+  </ul>
+</div>
 
 ## Selected Publications
 

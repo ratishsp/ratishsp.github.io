@@ -1,5 +1,23 @@
 papers:
   - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2025
+    title: "RomanLens: The Role Of Latent Romanization In Multilinguality In LLMs"
+    authors: "Alan Saji, Jaavid Aktar Husain, Thanmay Jayakumar, Raj Dabre, Anoop Kunchukuttan, Ratish Puduppully"
+    booktitle: "Findings of the 63rd Annual Meeting of the Association for Computational Linguistics"
+    doc-url: https://arxiv.org/abs/2502.07424
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2025
+    title: "Improving Genomic Models via Task-Specific Self-Pretraining"
+    authors: "Sohan Mupparapu, Parameswari Krishnamurthy, Ratish Puduppully"
+    booktitle: "Proceedings of the Workshop on Generative AI for Biology at the 42nd International Conference on Machine Learning"
+    doc-url: https://arxiv.org/abs/2506.17766
+    venue: workshop
+  - layout: paper
     selected: no
     paper-type: preprint
     year: 2024

@@ -13,7 +13,7 @@ papers:
     year: 2024
     title: "RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization"
     authors: "Jaavid Aktar Husain, Raj Dabre, Aswanth Kumar, Ratish Puduppully, Anoop Kunchukuttan"
-    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (to appear)"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics"
     doc-url: https://arxiv.org/abs/2401.15006
     venue: conference
   - layout: paper
@@ -22,7 +22,7 @@ papers:
     year: 2024
     title: "How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?"
     authors: "Anushka Singh, Ananya B. Sai, Raj Dabre, Ratish Puduppully, Anoop Kunchukuttan, Mitesh M. Khapra"
-    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Short Papers) (to appear)"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Short Papers)"
     doc-url: https://arxiv.org/abs/2406.03893
     venue: conference
   - layout: paper
@@ -60,7 +60,7 @@ papers:
     year: 2023
     title: "IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages"
     authors: "AI4Bharat, Jay Gala, Pranjal A. Chitale, Raghavan AK, Sumanth Doddapaneni, Varun Gumma, Aswanth Kumar, Janki Nawale, Anupama Sujatha, Ratish Puduppully, Vivek Raghavan, Pratyush Kumar, Mitesh M. Khapra, Raj Dabre, Anoop Kunchukuttan"
-    booktitle: "Transactions of Machine Learning Research (TMLR) (to appear)"
+    booktitle: "Transactions of Machine Learning Research (TMLR)"
     doc-url: https://arxiv.org/abs/2305.16307
     venue: journal
     code: https://ai4bharat.iitm.ac.in/indic-trans2

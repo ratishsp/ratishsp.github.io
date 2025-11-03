@@ -10,7 +10,7 @@ I completed my PhD at the [University of Edinburgh](https://www.ed.ac.uk/), wher
 
 My research interests include:
 
-- **Structured and Long-Context Modeling**: I work on improving models' ability to process structured data and long sequences. This includes neural planning for generation from tabular inputs ([TACL'21](https://doi.org/10.1162/tacl_a_00381), [TACL'22](https://doi.org/10.1162/tacl_a_00484)), long-context modeling for summarization and sequences ([ACL'23](https://aclanthology.org/2023.acl-short.13), [ICLR'25 W](https://openreview.net/forum?id=uneMbnwmW8)), and genome modeling via task-specific self-pretraining ([ICML-GenBio'25](https://arxiv.org/abs/2506.17766)).
+- **Structured and Long-Context Modeling**: I work on improving models' ability to process structured data and long sequences. This includes neural planning for generation from tabular inputs ([TACL'21](https://doi.org/10.1162/tacl_a_00381), [TACL'22](https://doi.org/10.1162/tacl_a_00484)), long-context modeling for summarization and sequences ([ACL'23](https://aclanthology.org/2023.acl-short.13), [TMLR'25](https://openreview.net/forum?id=yv0TUssepk)), and genome modeling via task-specific self-pretraining ([ICML-GenBio'25](https://arxiv.org/abs/2506.17766)).
 
 - **Multilinguality, Transfer Learning, and Interpretability**: I explore methods to make LLMs effective for low-resource and non-Roman script languages through romanization ([RomanSetu, ACL'24](https://aclanthology.org/2024.acl-long.833/)) and language-relatedness-based chunking ([DecoMT, EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)). I also study how LLMs internally represent such multilingual data, including latent romanization ([RomanLens, ACL'25](https://arxiv.org/abs/2502.07424)).
 

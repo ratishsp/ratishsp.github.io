@@ -1,6 +1,33 @@
 papers:
   - layout: paper
     selected: yes
+    paper-type: preprint
+    year: 2025
+    title: "RiddleBench: A New Generative Reasoning Benchmark for LLMs"
+    authors: "Deepon Halder, Alan Saji, Thanmay Jayakumar, Ratish Puduppully, Anoop Kunchukuttan, Raj Dabre"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2510.24932
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: preprint
+    year: 2025
+    title: "The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI"
+    authors: "Alan Saji, Raj Dabre, Anoop Kunchukuttan, Ratish Puduppully"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2510.20647
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2025
+    title: "Chimera: State Space Models Beyond Sequences"
+    authors: "Aakash Lahoti, Tanya Marwah, Ratish Puduppully, Albert Gu"
+    booktitle: "Transactions on Machine Learning Research"
+    doc-url: https://openreview.net/forum?id=yv0TUssepk
+    venue: journal
+  - layout: paper
+    selected: yes
     paper-type: inproceedings
     year: 2025
     title: "RomanLens: The Role Of Latent Romanization In Multilinguality In LLMs"

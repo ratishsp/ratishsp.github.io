@@ -1,4 +1,19 @@
 items:
+  - date: "28 Oct 2025"
+    description: "Preprint on RiddleBench, a benchmark for evaluating complex reasoning and puzzle-solving in LLMs."
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2510.24932"
+  - date: "23 Oct 2025"
+    description: "Preprint on multilingual reasoning in LLMs, revealing the Lost-in-Translation failure mode when reasoning in English."
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2510.20647"
+  - date: "29 Aug 2025"
+    description: "Chimera accepted to Transactions of Machine Learning Research (TMLR). It proposes a unified state-space model for sequences, graphs, and images."
+    links:
+      - title: "Paper"
+        url: "https://openreview.net/forum?id=yv0TUssepk"
   - date: "12 Jun 2025"
     description: "Paper on self-pretraining for genome modeling accepted to ICML 2025 Workshop on Generative AI for Biology"
     links:

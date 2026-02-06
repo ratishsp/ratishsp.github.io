@@ -2,6 +2,15 @@ papers:
   - layout: paper
     selected: yes
     paper-type: preprint
+    year: 2026
+    title: "The Illusion of Generalization: Re-examining Tabular Language Model Evaluation"
+    authors: "Aditya Gorla, Ratish Puduppully"
+    booktitle: "arXiv Preprint"
+    doc-url: https://arxiv.org/abs/2602.04031
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: preprint
     year: 2025
     title: "RiddleBench: A New Generative Reasoning Benchmark for LLMs"
     authors: "Deepon Halder, Alan Saji, Thanmay Jayakumar, Ratish Puduppully, Anoop Kunchukuttan, Raj Dabre"

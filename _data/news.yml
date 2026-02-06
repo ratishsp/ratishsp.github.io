@@ -1,4 +1,16 @@
 items:
+  - date: "3 Feb 2026"
+    description: "Preprint evaluating generalization claims in Tabular Language Models."
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2602.04031"
+  - date: "5 Dec 2025"
+    description: "Received a grant from Den Danske Maritime Fond for the ACCENT project, which develops automated methods for maritime chart correction preparation and English translation."
+    links:
+      - title: "Funding Announcement"
+        url: "https://dendanskemaritimefond.dk/it-universitetet-accent-automated-chart-correction-and-english-translation-for-maritime-navigation/"
+  - date: "24 Nov 2025"
+    description: "Received a grant from the Orient Fund for the Maritime Safety Assistant project."
   - date: "28 Oct 2025"
     description: "Preprint on RiddleBench, a benchmark for evaluating complex reasoning and puzzle-solving in LLMs."
     links:

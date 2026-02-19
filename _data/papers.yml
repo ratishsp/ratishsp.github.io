@@ -10,20 +10,20 @@ papers:
     venue: conference
   - layout: paper
     selected: yes
-    paper-type: preprint
-    year: 2025
+    paper-type: inproceedings
+    year: 2026
     title: "RiddleBench: A New Generative Reasoning Benchmark for LLMs"
     authors: "Deepon Halder, Alan Saji, Thanmay Jayakumar, Ratish Puduppully, Anoop Kunchukuttan, Raj Dabre"
-    booktitle: "axXiv Preprint"
+    booktitle: "Findings of EACL"
     doc-url: https://arxiv.org/abs/2510.24932
     venue: conference
   - layout: paper
     selected: yes
-    paper-type: preprint
-    year: 2025
+    paper-type: inproceedings
+    year: 2026
     title: "The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI"
     authors: "Alan Saji, Raj Dabre, Anoop Kunchukuttan, Ratish Puduppully"
-    booktitle: "axXiv Preprint"
+    booktitle: "Proceedings of EACL"
     doc-url: https://arxiv.org/abs/2510.20647
     venue: conference
   - layout: paper

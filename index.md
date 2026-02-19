@@ -14,8 +14,6 @@ My research interests include:
 
 - **Multilinguality, Transfer Learning, and Interpretability**: I explore methods to make LLMs effective for low-resource and non-Roman script languages through romanization ([RomanSetu, ACL'24](https://aclanthology.org/2024.acl-long.833/)) and language-relatedness-based chunking ([DecoMT, EMNLP'23](https://aclanthology.org/2023.emnlp-main.279/)). I also study how LLMs internally represent such multilingual data, including latent romanization ([RomanLens, ACL'25](https://arxiv.org/abs/2502.07424)).
 
-- **Mathematical Reasoning**: I study mathematical reasoning in open-weight LLMs, focusing on challenges like unit consistency ([VerityMath, ICML-AI4Math'24](https://arxiv.org/abs/2311.07172)).
-
 ## News
 
 <div style="max-height: 200px; overflow-y: auto; padding-right: 10px; border: 1px solid #ddd; border-radius: 6px;">
